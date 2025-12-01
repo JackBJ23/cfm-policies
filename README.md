@@ -1,6 +1,6 @@
 # cfm-policies
 
-This repository contains code, scripts, and experiments for training and evaluating **CFM-based policies**, as well as **Diffusion Policy** built on top of the ManiSkill simulation framework. It includes utilities for dataset creation, training, evaluation, and plotting, as well as modified versions of ManiSkill baseline scripts.
+This repository contains code, scripts, and experiments for training and evaluating **CFM-based policies** as well as **Diffusion Policy**, built on top of the ManiSkill simulation framework. It includes utilities for dataset creation, training, evaluation, and plotting, along with modified versions of ManiSkill baseline scripts. In particular, this repository introduces a new environment and motion-planning setup for stacking a red cube on top of a green cube in the presence of an obstacle (a blue block) positioned between them.
 
 ## Contents
 - `ManiSkill/` — main source code and experiment scripts  
@@ -19,3 +19,5 @@ cd cfm-policies
 
 Due to the initial configuration of the repository, include .sh files show paths to some folders (e.g., datasets, checkpoints)
  that should be changed based on the true full paths of these documents.
+
+ ## 
