@@ -13,6 +13,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/JackBJ23/cfm-policies.git
 cd cfm-policies
+```
 
 ## Note
 
