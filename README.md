@@ -17,5 +17,5 @@ cd cfm-policies
 
 ## Note
 
-Due to the initial configuration of the repository, some .sh files show paths to some folders (e.g., datasets, checkpoints)
+Due to the initial configuration of the repository, include .sh files show paths to some folders (e.g., datasets, checkpoints)
  that should be changed based on the true full paths of these documents.
