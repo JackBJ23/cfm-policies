@@ -1,0 +1,5 @@
+./ManiSkill/demos/*
+./ManiSkill/examples/baselines/diffusion_policy/runs/*
+./ManiSkill/examples/baselines/diffusion_policy/demos/*
+./ManiSkill/examples/baselines/diffusion_policy/wandb/*
+
