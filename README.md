@@ -14,7 +14,7 @@ Clone the repository:
 git clone https://github.com/JackBJ23/cfm-policies.git
 cd cfm-policies
 ```
-Next, create the conda environment `diffusion-policy-ms` following the instructions \href{https://github.com/JackBJ23/cfm-policies/tree/main/ManiSkill/examples/baselines/diffusion_policy}{here} (replace the name diffusion-policy-ms by dp-cfm1), and after installing the environment, install torchcfm with
+Next, create the conda environment `diffusion-policy-ms` following the instructions [here](https://github.com/JackBJ23/cfm-policies/tree/main/ManiSkill/examples/baselines/diffusion_policy) (replace the name diffusion-policy-ms by dp-cfm1), and after installing the environment, install torchcfm with
 ```bash
 pip install torchcfm
 ```
