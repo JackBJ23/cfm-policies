@@ -1,6 +1,6 @@
 # cfm-policies
 
-This repository contains code, scripts, and experiments for training and evaluating **CFM-based policies** built on top of the ManiSkill simulation framework.  
+This repository contains code, scripts, and experiments for training and evaluating **CFM-based policies**, as well as **Diffusion Policy** built on top of the ManiSkill simulation framework.  
 It includes utilities for dataset creation, training, evaluation, and plotting, as well as modified versions of ManiSkill baseline scripts.
 
 ## Contents
